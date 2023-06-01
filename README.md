@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋🏻</h1> 
-<p>Meu nome é Leonardo Hirooka, tenho 23 anos e sou estudante de programação, sou formado em Análise e Desenvolvimento de Sistemas, meu atual trabalho não tem nenhuma relação com a área, porém estou em busca de oportunidades para dar início a minha carreira no mercado de tecnologia.
+<p>Meu nome é Leonardo Hirooka e sou estudante de programação, sou formado em Análise e Desenvolvimento de Sistemas, meu atual trabalho não tem nenhuma relação com a área, porém estou em busca de oportunidades para dar início a minha carreira no mercado de tecnologia.
 </p>
   
 <div align="center">

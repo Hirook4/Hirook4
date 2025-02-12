@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋🏻</h1> 
-<p>Meu nome é Leonardo Hirooka e sou estudante de programação, sou formado em Análise e Desenvolvimento de Sistemas, atualmente sou Analista de Implantação na iDtrust.
+<p>Meu nome é Leonardo Hirooka e sou estudante de programação, sou formado em Análise e Desenvolvimento de Sistemas, possuo experiência como Analista de Implantação.
 </p>
   
 <div align="center">

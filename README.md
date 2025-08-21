@@ -1,7 +1,10 @@
-<h1 align="center">Olá 👋🏻</h1> 
-<p>Meu nome é Leonardo Hirooka e sou estudante de programação, sou formado em Análise e Desenvolvimento de Sistemas, possuo experiência como Analista de Implantação.
+<h1 align="center">olá, eu sou Leonardo Hirooka 👋🏻</h1> 
+<h4 align="center"><strong>💻 Programador e estudante de desenvolvimento.</strong></h4>
+
+<p>
+Buscando constantemente aprendizado e novas oportunidades na área de tecnologia. Tenho maior afinidade com HTML, CSS, JavaScript (ES6), React, PHP, Laravel e Flutter, mas também já tive contato com outras ferramentas e metodologias que fortalecem minha jornada como desenvolvedor.
 </p>
-  
+
 <div align="center">
 <a href="https://github.com/Hirook4">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hirook4&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/> 

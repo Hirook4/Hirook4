@@ -12,11 +12,26 @@
 </br>
 
 <p align="center"> 
+<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=notion" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/><br>
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=php" height="50"/>
+<img src="https://skillicons.dev/icons?i=laravel" height="50"/>
+<img src="https://skillicons.dev/icons?i=dart" height="50"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="50"/>
 </p>
        
 <div align="center">
